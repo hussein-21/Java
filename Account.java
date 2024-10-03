@@ -1,6 +1,5 @@
 // Hussein Alsaidi
-// Midterm Exam
-// 02-29-24
+
 
 import java.util.Scanner;
 
